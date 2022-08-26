@@ -1,3 +1,7 @@
+# How to Parse Blockchain Transactions to a Google Drive Folder
+
+
+
 <p>In this article, we will analyze bitcoin transactions and learn how to parse RawTX very quickly from the blockchain network to the Google Drive folder, all this will help us better understand how bitcoin transactions work and what all its contents are on the blockchain network.<br>
 First, we need to know that all bitcoin transactions are stored in [txid].</p>
 <blockquote class="wp-block-quote"><p><strong>txid</strong>&nbsp;&nbsp;is the transaction ID stored on the bitcoin blockchain, RawTX is stored in the form of a double hash.</p></blockquote>
@@ -48,3 +52,11 @@ First, we need to know that all bitcoin transactions are stored in [txid].</p>
 <p class="has-vivid-cyan-blue-color has-text-color"><strong>Telegram:&nbsp;&nbsp;<a href="https://t.me/cryptodeeptech" target="_blank" rel="noreferrer noopener">https://t.me/cryptodeeptech</a></strong></p>
 <p class="has-vivid-cyan-blue-color has-text-color"><strong>Video:&nbsp;&nbsp;<a href="https://youtu.be/ECAPypsmMQs" target="_blank" rel="noreferrer noopener">https://youtu.be/ECAPypsmMQs</a></strong></p>
 <p><a href="https://cryptodeeptech.ru/blockchain-google-drive"><strong>Source: https://cryptodeeptech.ru/blockchain-google-drive</strong></a></p>
+
+---
+
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
